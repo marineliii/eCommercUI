@@ -1,6 +1,6 @@
 # ecommerce_ui
 
-A new Flutter project.
+Simple eCommerc UI for mobile devices, with couple of functionalities
 
 ## Getting Started
 
